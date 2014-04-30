@@ -7,7 +7,7 @@ Minetest/Freeminer mod that adds various amulets
 
 ### Life Eater
 
-* Name: amuletum:lifeeater
+  Name: amuletum:lifeeater
   Craft recipe:
 {'moreores:silver_lump', 'gems:garnet', ''},
 {'animalmaterials:bone', 'group:stick', 'animalmaterials:bone'},
