@@ -5,7 +5,7 @@ Minetest/Freeminer mod that adds various amulets
 
 #### Items and Craft Recipes
 
-### Lefe Eater
+### Life Eater
 
 * Name: amuletum:lifeeater
 * Craft recipe:
